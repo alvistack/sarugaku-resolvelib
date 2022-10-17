@@ -12,3 +12,4 @@ dist
 pip-wheel-metadata
 
 *.egg-info
+.pybuild/
