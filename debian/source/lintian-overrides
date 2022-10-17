@@ -1,0 +1,4 @@
+python-resolvelib source: file-without-copyright-information
+python-resolvelib source: no-debian-changes
+python-resolvelib source: source-contains-prebuilt-windows-binary
+python-resolvelib source: source-package-encodes-python-version
