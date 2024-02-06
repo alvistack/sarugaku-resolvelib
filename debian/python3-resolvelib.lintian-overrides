@@ -1,0 +1,4 @@
+python3-resolvelib: copyright-without-copyright-notice
+python3-resolvelib: initial-upload-closes-no-bugs
+python3-resolvelib: no-manual-page
+python3-resolvelib: zero-byte-file-in-doc-directory
